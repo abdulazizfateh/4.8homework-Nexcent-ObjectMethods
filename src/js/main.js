@@ -33,8 +33,12 @@
 // console.log(objectToArray({ name: "Ali", age: 25 }));
 
 
-// // TASK 5
-// const getKeysAndValues = (obj) => Object.keys(obj);
+// TASK 5
+// const getKeysAndValues = (obj) => {
+//     let keys = Object.keys(obj);
+//     let values = Object.values(obj);
+//     return keys;
+// };
 // console.log(getKeysAndValues({ a: 1, b: 2, c: 3 }));
 
 
